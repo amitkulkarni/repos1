@@ -1,0 +1,8 @@
+# Allow any github repos from the Acquia organization
+github.com:acquia/*
+
+# Allow specific github repo
+github.com:SU-SWS/open_framework
+
+# Allow the Zen theme from Drupal.org
+git.drupal.org:project/zen.git
